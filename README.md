@@ -1,3 +1,3 @@
-<p>This is my local repo.</p>
-<p>This is a new feature.</p>
-<p>This is another new feature (button).</p>
+<p>This is new repo.</p>
+<p>This is another file.</p>
+<p>This is new feature. (button)</p>
